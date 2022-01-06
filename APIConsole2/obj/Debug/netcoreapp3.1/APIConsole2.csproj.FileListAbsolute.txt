@@ -1,0 +1,17 @@
+C:\Users\color\source\repos\dn2021_week6\APIConsole2\bin\Debug\netcoreapp3.1\APIConsole2.exe
+C:\Users\color\source\repos\dn2021_week6\APIConsole2\bin\Debug\netcoreapp3.1\APIConsole2.deps.json
+C:\Users\color\source\repos\dn2021_week6\APIConsole2\bin\Debug\netcoreapp3.1\APIConsole2.runtimeconfig.json
+C:\Users\color\source\repos\dn2021_week6\APIConsole2\bin\Debug\netcoreapp3.1\APIConsole2.runtimeconfig.dev.json
+C:\Users\color\source\repos\dn2021_week6\APIConsole2\bin\Debug\netcoreapp3.1\APIConsole2.dll
+C:\Users\color\source\repos\dn2021_week6\APIConsole2\bin\Debug\netcoreapp3.1\APIConsole2.pdb
+C:\Users\color\source\repos\dn2021_week6\APIConsole2\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\color\source\repos\dn2021_week6\APIConsole2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\color\source\repos\dn2021_week6\APIConsole2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\color\source\repos\dn2021_week6\APIConsole2\obj\Debug\netcoreapp3.1\APIConsole2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\color\source\repos\dn2021_week6\APIConsole2\obj\Debug\netcoreapp3.1\APIConsole2.AssemblyInfoInputs.cache
+C:\Users\color\source\repos\dn2021_week6\APIConsole2\obj\Debug\netcoreapp3.1\APIConsole2.AssemblyInfo.cs
+C:\Users\color\source\repos\dn2021_week6\APIConsole2\obj\Debug\netcoreapp3.1\APIConsole2.csproj.CoreCompileInputs.cache
+C:\Users\color\source\repos\dn2021_week6\APIConsole2\obj\Debug\netcoreapp3.1\APIConsole2.dll
+C:\Users\color\source\repos\dn2021_week6\APIConsole2\obj\Debug\netcoreapp3.1\APIConsole2.pdb
+C:\Users\color\source\repos\dn2021_week6\APIConsole2\obj\Debug\netcoreapp3.1\APIConsole2.genruntimeconfig.cache
+C:\Users\color\source\repos\dn2021_week6\APIConsole2\obj\Debug\netcoreapp3.1\APIConsole2.csproj.CopyComplete

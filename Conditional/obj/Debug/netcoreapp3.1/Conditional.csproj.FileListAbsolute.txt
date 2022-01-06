@@ -1,0 +1,13 @@
+C:\Users\color\source\repos\dn2021_week6\Conditional\bin\Debug\netcoreapp3.1\Conditional.exe
+C:\Users\color\source\repos\dn2021_week6\Conditional\bin\Debug\netcoreapp3.1\Conditional.deps.json
+C:\Users\color\source\repos\dn2021_week6\Conditional\bin\Debug\netcoreapp3.1\Conditional.runtimeconfig.json
+C:\Users\color\source\repos\dn2021_week6\Conditional\bin\Debug\netcoreapp3.1\Conditional.runtimeconfig.dev.json
+C:\Users\color\source\repos\dn2021_week6\Conditional\bin\Debug\netcoreapp3.1\Conditional.dll
+C:\Users\color\source\repos\dn2021_week6\Conditional\bin\Debug\netcoreapp3.1\Conditional.pdb
+C:\Users\color\source\repos\dn2021_week6\Conditional\obj\Debug\netcoreapp3.1\Conditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\color\source\repos\dn2021_week6\Conditional\obj\Debug\netcoreapp3.1\Conditional.AssemblyInfoInputs.cache
+C:\Users\color\source\repos\dn2021_week6\Conditional\obj\Debug\netcoreapp3.1\Conditional.AssemblyInfo.cs
+C:\Users\color\source\repos\dn2021_week6\Conditional\obj\Debug\netcoreapp3.1\Conditional.csproj.CoreCompileInputs.cache
+C:\Users\color\source\repos\dn2021_week6\Conditional\obj\Debug\netcoreapp3.1\Conditional.dll
+C:\Users\color\source\repos\dn2021_week6\Conditional\obj\Debug\netcoreapp3.1\Conditional.pdb
+C:\Users\color\source\repos\dn2021_week6\Conditional\obj\Debug\netcoreapp3.1\Conditional.genruntimeconfig.cache

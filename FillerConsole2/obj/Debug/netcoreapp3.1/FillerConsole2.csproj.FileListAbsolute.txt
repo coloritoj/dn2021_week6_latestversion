@@ -1,0 +1,13 @@
+C:\Users\color\source\repos\dn2021_week6\FillerConsole2\bin\Debug\netcoreapp3.1\FillerConsole2.exe
+C:\Users\color\source\repos\dn2021_week6\FillerConsole2\bin\Debug\netcoreapp3.1\FillerConsole2.deps.json
+C:\Users\color\source\repos\dn2021_week6\FillerConsole2\bin\Debug\netcoreapp3.1\FillerConsole2.runtimeconfig.json
+C:\Users\color\source\repos\dn2021_week6\FillerConsole2\bin\Debug\netcoreapp3.1\FillerConsole2.runtimeconfig.dev.json
+C:\Users\color\source\repos\dn2021_week6\FillerConsole2\bin\Debug\netcoreapp3.1\FillerConsole2.dll
+C:\Users\color\source\repos\dn2021_week6\FillerConsole2\bin\Debug\netcoreapp3.1\FillerConsole2.pdb
+C:\Users\color\source\repos\dn2021_week6\FillerConsole2\obj\Debug\netcoreapp3.1\FillerConsole2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\color\source\repos\dn2021_week6\FillerConsole2\obj\Debug\netcoreapp3.1\FillerConsole2.AssemblyInfoInputs.cache
+C:\Users\color\source\repos\dn2021_week6\FillerConsole2\obj\Debug\netcoreapp3.1\FillerConsole2.AssemblyInfo.cs
+C:\Users\color\source\repos\dn2021_week6\FillerConsole2\obj\Debug\netcoreapp3.1\FillerConsole2.csproj.CoreCompileInputs.cache
+C:\Users\color\source\repos\dn2021_week6\FillerConsole2\obj\Debug\netcoreapp3.1\FillerConsole2.dll
+C:\Users\color\source\repos\dn2021_week6\FillerConsole2\obj\Debug\netcoreapp3.1\FillerConsole2.pdb
+C:\Users\color\source\repos\dn2021_week6\FillerConsole2\obj\Debug\netcoreapp3.1\FillerConsole2.genruntimeconfig.cache
